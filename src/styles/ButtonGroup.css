@@ -1,0 +1,9 @@
+#buttonGroup * {
+  width: 17vw;
+  font-family: 'Monda', sans-serif;
+  margin-bottom: 3vh;
+}
+
+#buttonGroup *:not(:last-child) {
+  margin-right: 3vw;
+}

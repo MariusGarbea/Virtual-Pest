@@ -1,0 +1,15 @@
+#pet {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#info {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10vh;
+}
